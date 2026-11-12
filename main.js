@@ -23,6 +23,7 @@ async function intit() {
             d.style.height = "200px"
             d.style.alignContent = "center"            
             d.style.textAlign = "center"
+            d.style.margin = "5px"
             bod.appendChild(d)
 
             if(adat.textColor == "light")
